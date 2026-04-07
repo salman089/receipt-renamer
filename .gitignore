@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Project specific folders (keep the folders, ignore the files inside)
+receipts/*
+processed_receipts/*
+!receipts/.gitkeep
+!processed_receipts/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
