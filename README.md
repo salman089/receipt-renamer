@@ -25,7 +25,7 @@ This script acts as a bridge to the Tesseract engine. You must install it on you
 
 ### 2. Project Setup
 Clone the repository and set up your virtual environment:
-git clone [https://github.com/your-username/receipt-renamer.git](https://github.com/your-username/receipt-renamer.git)  
+git clone [https://github.com/salman089/receipt-renamer.git](https://github.com/salman089/receipt-renamer.git)  
 cd receipt-renamer
 
 # Create and activate virtual environment
